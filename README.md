@@ -1,6 +1,6 @@
 # Assignment Parser
 
-![Image](https://github.com/JammUtkarsh/jammutkarsh/blob/main/meme.png?raw=true)
+![Image](https://github.com/JammUtkarsh/assignment-parse/blob/main/meme.png?raw=true)
 
 ___
 
